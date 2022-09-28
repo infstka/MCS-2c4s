@@ -1,0 +1,16 @@
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.exe
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.deps.json
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.runtimeconfig.json
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.runtimeconfig.dev.json
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.dll
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ref\ЛР7.dll
+D:\уник\СМС\ЛР7\ЛР7\bin\Debug\net5.0\ЛР7.pdb
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.csproj.AssemblyReference.cache
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.AssemblyInfoInputs.cache
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.AssemblyInfo.cs
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.csproj.CoreCompileInputs.cache
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.dll
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ref\ЛР7.dll
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.pdb
+D:\уник\СМС\ЛР7\ЛР7\obj\Debug\net5.0\ЛР7.genruntimeconfig.cache

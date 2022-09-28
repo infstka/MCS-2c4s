@@ -1,0 +1,14 @@
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\bin\Debug\SMS8.exe
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\bin\Debug\SMS8.pdb
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\obj\Debug\SMS8.csproj.AssemblyReference.cache
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\obj\Debug\SMS8.csproj.SuggestedBindingRedirects.cache
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\obj\Debug\SMS8.csproj.CoreCompileInputs.cache
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\obj\Debug\SMS8.exe
+D:\Универ 2 курс\Университет 4 семестр\СМС\Лабораторные работы\ЛР8\SMS8\SMS8\obj\Debug\SMS8.pdb
+D:\уник\СМС\ЛР8\SMS8\SMS8\bin\Debug\SMS8.exe.config
+D:\уник\СМС\ЛР8\SMS8\SMS8\bin\Debug\SMS8.exe
+D:\уник\СМС\ЛР8\SMS8\SMS8\bin\Debug\SMS8.pdb
+D:\уник\СМС\ЛР8\SMS8\SMS8\obj\Debug\SMS8.csproj.AssemblyReference.cache
+D:\уник\СМС\ЛР8\SMS8\SMS8\obj\Debug\SMS8.csproj.CoreCompileInputs.cache
+D:\уник\СМС\ЛР8\SMS8\SMS8\obj\Debug\SMS8.exe
+D:\уник\СМС\ЛР8\SMS8\SMS8\obj\Debug\SMS8.pdb
